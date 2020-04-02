@@ -1,0 +1,24 @@
+{
+  "name": "algoPlay",
+  "version": "0.0.1",
+  "description": "new playground for algorithm",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvir-ux/playAlgo.git"
+  },
+  "keywords": [
+    "algorithm",
+    "datastructure",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[Cs\u001b[C\u001b[Dtructure"
+  ],
+  "author": "Md. Tanvir Alam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanvir-ux/playAlgo/issues"
+  },
+  "homepage": "https://github.com/tanvir-ux/playAlgo#readme"
+}
