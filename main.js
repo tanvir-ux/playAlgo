@@ -38,6 +38,3 @@ function addItem(){
     body.appendChild(newItem);
 }
 
-function removeItem(){
-    body.removeChild(newItem);
-}
