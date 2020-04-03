@@ -1,3 +1,5 @@
+
+
 let el = document.createElement("div");
 
 el.textContent = "Hello World";
@@ -23,7 +25,7 @@ removeButton.style.height = "30px";
 removeButton.style.margin = "0 0 0 100px";
 body.appendChild(removeButton);
 
-button.addEventListener("click", removeItem);
+button.addEventListener("click", display);
 
 const items = []
 
