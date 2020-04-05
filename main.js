@@ -1,6 +1,12 @@
 
-// may be here we can test the marge conflict ;
-// this is from dev branch 
+import * as module from './env';
+
+const getMessage = () => "Hello World";
+document.getElementById('output').innerHTML = getMessage();
+
+
+const secretKey = module.default;
+console.log(secretKey);
 
 
 let el = document.createElement("div");
