@@ -1,16 +1,12 @@
-
 import * as module from './env';
 
 const getMessage = () => "Hello World";
 document.getElementById('output').innerHTML = getMessage();
 
-
 const secretKey = module.default;
 console.log(secretKey);
 
-
 let el = document.createElement("div");
-
 el.textContent = "Hello World";
 el.style.fontSize = "40px";
 el.style.padding = "0 20px";
