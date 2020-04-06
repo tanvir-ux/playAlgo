@@ -4,9 +4,16 @@
 }
 
 body{
-    background: chocolate;
+    
     margin: 0;
     padding: 0;
     text-decoration: none;
     box-sizing: border-box;
+}
+
+.btn{
+    
+    width: 100px;
+    height: 30px;
+    
 }
