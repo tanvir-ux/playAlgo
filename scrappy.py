@@ -14,4 +14,5 @@ for x in numbers:
     if(x % 2 == 0):
         print numbers[x]
 
+print("This is writing from wsl from windows to linux using zsh shell"
 
